@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MyLC-3-VM", "MyLC-3-VM\MyLC-3-VM.vcxproj", "{906A1216-9F79-4008-8350-8188C84FDFA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{906A1216-9F79-4008-8350-8188C84FDFA1}.Debug|x64.ActiveCfg = Debug|x64
+		{906A1216-9F79-4008-8350-8188C84FDFA1}.Debug|x64.Build.0 = Debug|x64
+		{906A1216-9F79-4008-8350-8188C84FDFA1}.Debug|x86.ActiveCfg = Debug|Win32
+		{906A1216-9F79-4008-8350-8188C84FDFA1}.Debug|x86.Build.0 = Debug|Win32
+		{906A1216-9F79-4008-8350-8188C84FDFA1}.Release|x64.ActiveCfg = Release|x64
+		{906A1216-9F79-4008-8350-8188C84FDFA1}.Release|x64.Build.0 = Release|x64
+		{906A1216-9F79-4008-8350-8188C84FDFA1}.Release|x86.ActiveCfg = Release|Win32
+		{906A1216-9F79-4008-8350-8188C84FDFA1}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD045898-7D0B-4A57-92F7-D008C0A21691}
+	EndGlobalSection
+EndGlobal
